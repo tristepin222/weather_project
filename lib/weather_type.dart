@@ -1,0 +1,1 @@
+enum WeatherType { none, cloudy, drizzle, foggy, heavyRain, rainy, snowy,sunny, thunder }
